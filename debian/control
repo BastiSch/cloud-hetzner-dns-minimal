@@ -1,0 +1,8 @@
+Package: python3-cloud-hetzner-dns
+Version: 0.1
+Architecture: all
+Depends: python3-requests, python3:any 
+Maintainer: BastiSch <88056341+BastiSch@users.noreply.github.com>
+Description: Client class for the DNS part of the Hetzner Cloud API
+ This client class provides simple function for creating / updating / deleting
+ RRs in zones using the Hetzner Cloud API.
